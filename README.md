@@ -22,8 +22,8 @@ A cross-platform terminal application for managing your daily tasks efficiently.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/im-udxt/terminalapp.git
-cd terminal-task-manager
+git clone https://github.com/im-udxt/TerminalApp.git
+cd TerminalApp
 ```
 
 2. Install the package in editable mode:
